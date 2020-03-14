@@ -2,3 +2,4 @@
 * Using: axios for requests, materialize-css for styles
 
 * Deployed at github page: https://bvooztaunn.github.io/js-aviatickets-app/dist/
+* Deployed also at https://js-aviatickets-app.firebaseapp.com/ 
